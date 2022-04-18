@@ -1,0 +1,62 @@
+
+
+
+h2 
+{ 
+font-size: large;
+
+}
+h3
+{
+font-size: large;
+
+}
+h4
+{
+font-size: large;
+
+}
+h5
+{
+font-size: large;
+
+}
+h6
+{
+font-size: large;
+
+}
+h2
+{
+font-size: 30px; 
+}
+h1
+{
+font-size: 30px;
+}
+.achieve_head
+{
+width:80%;
+height:50px ;
+font-size: 20px;
+padding: 12px 44px;
+border-radius: 10px;
+margin-bottom: 15px;
+}
+
+.achieve_head i
+{
+    float:right;
+}
+
+.achievement_text span
+{
+    color:gold;
+}
+.new{
+    margin-bottom: 20px;
+}
+
+.contact iframe{
+    width: 100%;
+}
